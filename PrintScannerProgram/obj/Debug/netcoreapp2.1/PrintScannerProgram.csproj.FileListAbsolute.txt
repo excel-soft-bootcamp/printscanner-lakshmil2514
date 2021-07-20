@@ -1,0 +1,12 @@
+C:\Users\lakshmi.l\source\repos\PrintScannerProgram\PrintScannerProgram\obj\Debug\netcoreapp2.1\PrintScannerProgram.csprojAssemblyReference.cache
+C:\Users\lakshmi.l\source\repos\PrintScannerProgram\PrintScannerProgram\obj\Debug\netcoreapp2.1\PrintScannerProgram.AssemblyInfoInputs.cache
+C:\Users\lakshmi.l\source\repos\PrintScannerProgram\PrintScannerProgram\obj\Debug\netcoreapp2.1\PrintScannerProgram.AssemblyInfo.cs
+C:\Users\lakshmi.l\source\repos\PrintScannerProgram\PrintScannerProgram\obj\Debug\netcoreapp2.1\PrintScannerProgram.csproj.CoreCompileInputs.cache
+C:\Users\lakshmi.l\source\repos\PrintScannerProgram\PrintScannerProgram\bin\Debug\netcoreapp2.1\PrintScannerProgram.deps.json
+C:\Users\lakshmi.l\source\repos\PrintScannerProgram\PrintScannerProgram\bin\Debug\netcoreapp2.1\PrintScannerProgram.runtimeconfig.json
+C:\Users\lakshmi.l\source\repos\PrintScannerProgram\PrintScannerProgram\bin\Debug\netcoreapp2.1\PrintScannerProgram.runtimeconfig.dev.json
+C:\Users\lakshmi.l\source\repos\PrintScannerProgram\PrintScannerProgram\bin\Debug\netcoreapp2.1\PrintScannerProgram.dll
+C:\Users\lakshmi.l\source\repos\PrintScannerProgram\PrintScannerProgram\bin\Debug\netcoreapp2.1\PrintScannerProgram.pdb
+C:\Users\lakshmi.l\source\repos\PrintScannerProgram\PrintScannerProgram\obj\Debug\netcoreapp2.1\PrintScannerProgram.dll
+C:\Users\lakshmi.l\source\repos\PrintScannerProgram\PrintScannerProgram\obj\Debug\netcoreapp2.1\PrintScannerProgram.pdb
+C:\Users\lakshmi.l\source\repos\PrintScannerProgram\PrintScannerProgram\obj\Debug\netcoreapp2.1\PrintScannerProgram.genruntimeconfig.cache
